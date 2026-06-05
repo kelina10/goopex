@@ -1,0 +1,52 @@
+ [
+  {
+    "title": "Historia Antigua",
+    "description": "Artículo de prueba número 1",
+    "url": "docs/articulo1.html"
+  },
+  {
+    "title": "Animales",
+    "description": "Artículo de prueba número 2",
+    "url": "docs/articulo2.html"
+  },
+  {
+    "title": "Geografía",
+    "description": "Artículo de prueba número 3",
+    "url": "docs/articulo3.html"
+  },
+  {
+    "title": "Tecnología",
+    "description": "Artículo de prueba número 4",
+    "url": "docs/articulo4.html"
+  },
+  {
+    "title": "Matemáticas",
+    "description": "Artículo de prueba número 5",
+    "url": "docs/articulo5.html"
+  },
+  {
+    "title": "Espacio",
+    "description": "Artículo de prueba número 6",
+    "url": "docs/articulo6.html"
+  },
+  {
+    "title": "Ciencia",
+    "description": "Artículo de prueba número 7",
+    "url": "docs/articulo7.html"
+  },
+  {
+    "title": "Arte",
+    "description": "Artículo de prueba número 8",
+    "url": "docs/articulo8.html"
+  },
+  {
+    "title": "Música",
+    "description": "Artículo de prueba número 9",
+    "url": "docs/articulo9.html"
+  },
+  {
+    "title": "Deportes",
+    "description": "Artículo de prueba número 10",
+    "url": "docs/articulo10.html"
+  }
+]
